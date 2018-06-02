@@ -1,5 +1,4 @@
 import json, requests
-import numpy as np
 
 from time import sleep
 
